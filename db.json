@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "reforma da casa",
+      "budget": "30000",
+      "category": {
+        "id": "1",
+        "name": "Reforma"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "CERCA ELETRICA ",
+          "cost": "5000",
+          "description": "curso para cerca ",
+          "id": "5b899793-ea0a-4a27-b109-6c5366088786"
+        }
+      ],
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Reforma"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Carro"
+    },
+    {
+      "id": 4,
+      "name": "Viagem"
+    },
+    {
+      "id": 5,
+      "name": "Moto"
+    }
+  ]
+}

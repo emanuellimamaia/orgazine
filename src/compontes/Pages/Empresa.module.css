@@ -1,0 +1,12 @@
+.container_empresa{
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+}
+.container_empresa h1{
+    margin-bottom: 1em;
+}
+.container_empresa p {
+    font-size: 20px;
+}
+

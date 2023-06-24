@@ -1,0 +1,11 @@
+.container_contato{
+    display: flex;
+    flex-direction: column;
+}
+.container_contato h1{
+    padding: 40px;
+}
+.container_contato p {
+    font-size: 20px;
+}
+   
